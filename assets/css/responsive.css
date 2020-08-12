@@ -1,0 +1,204 @@
+@media all and (max-width:991px){
+	.header-bottom-left-img img {
+		width: 348px;
+	}
+	.article-bottom-single {
+		margin-bottom: 30px;
+		height: 240px;
+	}
+	.next-area-full p {
+		width: 74%;
+	}
+	.about-left-content h2 {
+		font-size: 28px;
+	}
+	.contact_from_followers ul li a {
+		width: 32.9%;
+	}
+	.contact_from_followers ul li:nth-child(3) a {
+		background: #181357;
+	}
+	.contact_from_followers ul li:nth-child(4) a {
+		background: #326f08;
+	}
+	.contact_from_followers ul li:nth-child(6) a {
+		background: #326f08;
+	}
+	.contact_from_followers ul li:nth-child(8) a {
+		background: #326f08;
+	}
+	.blog-title h2 {
+		margin-left: 10px;
+	}
+}
+@media all and (max-width:867px){
+	.header-bottom-left-img img {
+		width: 308px;
+		margin-top: 44px;
+	}
+	.header-bottom {
+		padding: 70px 0px;
+	}
+	.article-bottom-single {
+		height: 251px;
+	}
+	.next-area-full p {
+		width: 81%;
+	}
+	.about-singl {
+		width: 96%;
+		margin: 0% 2%;
+	}
+	.about-left-content h2 {
+		font-size: 30px;
+	}
+	.about-left-img {
+		margin-top: 0px;
+	}
+	.blog {
+		padding-top: 45px;
+	}
+}
+@media all and (min-width:768px){
+	.menu ul{
+		display:block !important;
+	}
+}
+@media all and (max-width:767px){
+	.menu ul li {
+		display: inherit;
+	}
+	.responsive-bar a {
+		display: inline-block;
+		padding: 0px 15px;
+		color: #fff !important;
+		font-size: 30px;
+		border: 1px solid aliceblue;
+		border-radius: 3px;
+		margin: 13px 0px;
+		cursor: pointer;
+	}
+	.menu ul{
+		display:none;
+	}
+	.menu {
+		text-align: left;
+	}
+	.menu ul li a {
+		padding: 10px 0px;
+		margin: 2px 16px;
+	}
+	.header-bottom {
+		padding-top: 20px;
+		padding-bottom: 45px;
+	}
+	.header-bottom-left-img img {
+		width: 349px;
+		margin-top: 20px;
+	}
+	.article-bottom-single {
+		height: auto;
+		padding-bottom: 35px;
+	}
+	.work-area-bottom-single-img img {
+		height: auto;
+	}
+	.logo a {
+		font-size: 40px;
+		padding: 0px 14px;
+	}
+	.next-area-full p {
+		width: 92%;
+	}
+	.next-area {
+		padding-top: 60px;
+		padding-bottom: 60px;
+	}
+	.footer-left p {
+		text-align: center;
+	}
+	.footer-social {
+		text-align: center;
+		border-bottom: 3px solid #143c60;
+		padding-bottom: 6px;
+	}
+	.about-skil ul li {
+		padding: 7px 13px;
+		margin: 5px 7px;
+	}
+	.contact_s_form {
+		margin-top: 0;
+	}
+	.blog {
+		padding-top: 30px;
+	}
+	.work-gallery-single img {
+		height: auto;
+	}
+}
+@media all and (max-width:676px){
+	.article.text-center {
+		padding-top: 20px;
+		padding-bottom: 9px;
+	}
+	.services {
+		padding-top: 10px;
+		padding-bottom: 16px;
+	}
+	.services-bottom {
+		margin-top: 0px;
+	}
+	.next-area-full p {
+		width: 98%;
+	}
+	.contact_us_top {
+		padding-top: 40px;
+		padding-bottom: 40px;
+	}
+}
+@media all and (max-width:550px){
+	.header-bottom {
+		padding-bottom: 0px;
+	}
+	.article.text-center {
+		padding-top: 15px;
+		padding-bottom: 0px;
+	}
+	.contact_from_followers ul li a {
+		width: 49%;
+	}
+	.contact_from_followers ul li:nth-child(2) a {
+		background: #326f08;
+	}
+	.contact_from_followers ul li:nth-child(6) a {
+		background: #326f08;
+	}
+	.contact_from_followers ul li:nth-child(3) a {
+		background: #326f08;
+	}
+	.contact_from_followers ul li:nth-child(4) a {
+		background: #181357;
+	}
+	.contact_s_form form textarea {
+		height: 140px;
+	}
+	.form-area textarea {
+		height: 150px;
+	}
+}
+@media all and (max-width:400px){
+	.header-bottom-left-img img {
+		width: auto;
+		margin-top: 0px;
+	}
+	.footer-social ul li a {
+		margin: 0px 3px;
+		font-size: 20px;
+	}
+	.contact-body form textarea {
+		height: 140px;
+	}
+	.modal-contact-title h3 {
+		font-size: 20px;
+	}
+}
